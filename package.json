@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/EuSrSz/productly/issues"
   },
-  "homepage": "https://github.com/EuSrSz/productly#readme"
+  "homepage": "https://github.com/EuSrSz/productly#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
