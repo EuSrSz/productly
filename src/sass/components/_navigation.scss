@@ -9,8 +9,13 @@
   padding: 0 10px;
   cursor: pointer;
   @extend %transition;
-
   &:hover {
     color: $color-primary;
+  }
+}
+
+.header__navigation {
+  @include media-tablet {
+    display: none;
   }
 }
